@@ -1,7 +1,4 @@
-/*
-Author Harshit Nigam
-Roll No MT2021052
-*/
+# Online Railway Ticket Booking System
 
 
  Run reset.sh to create essential data files:
